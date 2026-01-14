@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
-</picture>
+![gif de cobra](https://github.com/uareke/uareke/blob/output/github-snake-dark.svg)
