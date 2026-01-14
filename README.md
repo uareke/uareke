@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![gif de cobra](https://github.com/uareke/uareke/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uareke&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uareke&show_icons=true&theme=radical)
