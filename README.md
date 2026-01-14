@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 
 ![gif de cobra](https://github.com/uareke/uareke/blob/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uareke&show_icons=true&theme=radical)
+![uareke's GitHub stats](https://github-readme-stats.vercel.app/api?username=uareke&show_icons=true&theme=radical)
+
+## 🏆 Troféus GitHub
+
+![](https://github-profile-trophy.vercel.app/?username=uareke&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=8)
+
+## 📈 Linguagens Mais Usadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uareke&theme=radical&layout=compact&langs_count=8)
