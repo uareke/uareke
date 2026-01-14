@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![gif de cobra](https://github.com/uareke/uareke/output/github-snake-dark.svg)
+![gif de cobra](https://github.com/uareke/uareke/output/github-contribution-grid-snake-dark.svg)
